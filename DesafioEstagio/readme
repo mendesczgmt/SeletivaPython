@@ -1,0 +1,46 @@
+# Tela de login com as principais funcionalidades
+
+Este projeto é uma aplicação web que implementa uma tela de login utilizando um CRUD básico. Ele foi desenvolvido como parte de um desafio para uma seleção de estágio da neuroteks.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS (Bootstrap)
+- Python
+- Django
+- Banco de Dados SQLite
+
+## Requisitos
+
+- todos os requisitos serão encontrados em requirements.txt
+
+## Instalação
+
+1. Clone este repositório:
+    git clone "aqui coloque a url do repositório"
+
+2. Navegue até o diretório do projeto:
+
+3. Crie um ambiente virtual (opcional, mas recomendado) e ative-o:
+
+4. Instale as dependências do projeto:
+
+5. Execute as migrações do banco de dados:
+
+A aplicação estará disponível em http://localhost:8000/.
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Autenticação de usuários
+- Listagem de usuários cadastrados
+- Edição de usuários
+- Exclusão de usuários
+
+## Contribuindo
+
+Sinta-se à vontade para contribuir com melhorias para este projeto. Se você encontrar um problema ou tiver alguma sugestão, abra uma nova issue neste repositório.
+
+
+
+

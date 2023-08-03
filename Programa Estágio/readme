@@ -1,0 +1,19 @@
+# Desafios em Python
+
+Este repositório contém soluções para quatro desafios básicos em Python. Ele foi desenvolvido como parte de um desafio para uma seleção de estágio na neuroteks.
+
+## Desafio 1: Formatar Data para o Padrão Americano
+
+Este desafio consiste em criar uma função em Python que formate qualquer data para o padrão americano (MM/DD/YYYY).
+
+## Desafio 2: Verificar Tamanho do Arquivo
+
+Este desafio consiste em criar uma função em Python que verifique se um arquivo possui mais de 3 MB de tamanho.
+
+## Desafio 3: Simulação de Situação Problema
+
+Este desafio consiste em executar uma simulação de uma situação problema, que deve ser executada obrigatoriamente, mesmo em um cenário de erros múltiplos.
+
+## Desafio 4: Automação com Selenium para Consultas no Portal ESAJ-SP
+
+Este desafio consiste em desenvolver uma automação com Selenium para realizar consultas públicas no portal ESAJ-SP e montar um dicionário final com os resultados.

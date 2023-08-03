@@ -1,0 +1,25 @@
+# README
+
+## Desafios para Processo Seletivo
+
+Bem-vindo(a) ao repositório de desafios que fiz para o processo seletivo da neuroteks! Neste repositório, você encontrará duas pastas contendo desafios implementados usando Python, Django, HTML, CSS e Bootstrap.
+
+## Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+1. **desafio1/**: Está pasta contém o código fonte do cadastro XPTO.
+2. **desafio2/**: Esta pasta contém os códigos fontes dos desafios propostos.
+
+## Tecnologias Utilizadas
+
+Os desafios foram implementados utilizando as seguintes tecnologias:
+
+- **Python**: Linguagem de programação poderosa e versátil, utilizada para implementar a lógica dos desafios.
+- **Django**: Framework web em Python que proporciona uma estrutura sólida e eficiente para o desenvolvimento web.
+- **HTML e CSS**: Utilizados para criar a interface e o layout das páginas web dos desafios.
+- **Bootstrap**: Biblioteca CSS que facilita a criação de interfaces responsivas e atrativas.
+
+## Contato
+
+Se você tiver alguma dúvida ou precisar entrar em contato, pode fazê-lo através do meu e-mail: gabryelmendescz@gmail.com
